@@ -1,0 +1,18 @@
+body {
+	background: #E8E8E8;
+}
+
+#header {
+	padding: 20px;
+	border: 1px solid;
+}
+
+#content {
+	padding: 20px;
+	border: 1px solid;
+}
+
+#footer {
+	padding: 20px;
+	border: 1px solid;
+}
